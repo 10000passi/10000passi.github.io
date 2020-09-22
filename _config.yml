@@ -13,8 +13,7 @@ app_icon                                  : assets/icon/esempio_logo.png        
 app_name                                  : 10000 Passi                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : La web app che ti aiuterà a stare meglio.
-site.app_icon                             : assets/icon/esempio_logo.png  
-
+  
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
