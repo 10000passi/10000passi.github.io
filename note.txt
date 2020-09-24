@@ -1,0 +1,3 @@
+link color originale: "#1d63ea"
+original icons_foreground_color: "#1d63ea"
+original icons_background_color: "#e6e6e6"
