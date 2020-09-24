@@ -107,9 +107,10 @@ header {
 
 .logo > p {
 	color: $header-title-color;
+	font-family: 'Monofett', cursive;;
 	white-space: nowrap;
 	display: flex;
-	font-weight: bold;
+	/* font-weight: bold; */
 	margin-left: 15px;
 }
 
