@@ -12,7 +12,7 @@ presskit_download_link                    : https://10000passi.it               
 app_icon                                  : /assets/icon/logo.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : 10000 Passi.it                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : La web app che ti aiuterà a stare meglio.
+app_description                           : Mi muovo in un paesaggio dove rivoluzione e amorefanno discorsi sconvolgenti
   
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
