@@ -107,7 +107,7 @@ header {
 
 .logo > p {
 	color: $header-title-color;
-	font-family: 'Monofett', cursive;
+	/* font-family: 'Monofett', cursive; */
 	font-size: 20pt;
 	white-space: nowrap;
 	display: flex;
@@ -284,8 +284,8 @@ nav > ul li a:active {
 
 .appName {
 	color: $app-title-color;
-	font-family: 'Monofett', cursive;
-	font-size: 32pt;  
+	/* font-family: 'Monofett', cursive;
+	font-size: 32pt;   */
 }
 
 .appPrice {
