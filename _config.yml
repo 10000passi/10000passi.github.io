@@ -34,16 +34,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Orientarsi
+    description                           : La mia forma d'arte è il viaggio fatto a piedi nel paesaggio. La sola cosa che dobbiamo prendere da un paesaggio sono delle fotografie. La sola cosa che ci dobbiamo lasciare sono le tracce dei passi.
     fontawesome_icon_name                 : magic
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Perdersi
+    description                           : Il camminare condiziona la vista e la vista condiziona il camminare a tal punto che sembra che solo i piedi possano vedere.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Vagare
+    description                           : Ho scelto di fare l'arte camminando, utilizzando delle linee e dei cerchi, o delle pietre e dei giorni.
     fontawesome_icon_name                 : star
 
   - title                                 : # New Feature Title
